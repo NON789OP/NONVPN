@@ -4,12 +4,12 @@
 
 
 {
-         "name": "TH-Z.com-TRUE+DTAC",
+         "name": "th-Z.com-TRUE+DTAC",
          "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/Zcom%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87.ovpn"
       }
 ,
 {
-         "name": "TH-AV-TRUE+DTAC",
+         "name": "th-AV-TRUE+DTAC",
          "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/NON.10.ovpn"
       }
 
@@ -30,5 +30,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":5
+   "version":6
 }
