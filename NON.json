@@ -4,14 +4,14 @@
 
 
 {
-         "name": "NON-Z.com-TEUE+DTAC",
+         "name": "NON-Z.com-TRUE+DTAC",
          "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/Zcom%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87.ovpn"
       }
 ,
-      "name": "NON-AV-TEUE+DTAC",
+{
+         "name": "NON-AV-TRUE+DTAC",
          "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/NON.10.ovpn"
       }
-
 
    ],
 "message":"
@@ -28,6 +28,7 @@
 มีแอดมินดูแล24ชั่วโมง🕦
 
 
-\n\nUpdate:1",
+\n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
+}
