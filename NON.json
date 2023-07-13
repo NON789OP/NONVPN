@@ -10,20 +10,24 @@
 ,
 {
          "name": "VIP-AV1-TRUE-DTAC",
-         "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/NON.10.ovpn"
+         "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/non%20(12).ovpn"
       }
  ,
 {
          "name": "VIP-AV2-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/TCP.ovpn"
       }
-     
-
+,
+{
+         "name": "VIP-AV3-TRUE-DTAC",
+         "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/NON_AVTH.ovpn"
+      }
+      
    ],
 "message":"
 ⚡NON VPN⚡
 
-💫อัพเดทเซิฟเวอร์อัตโนมัติ 8/7/2023 ✨
+💫อัพเดทเซิฟเวอร์อัตโนมัติ 14/7/2023 ✨
 
 บริการเช่า internet VPN ความเร็วสูง✨
 
@@ -36,5 +40,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":11
+   "version":12
 }
