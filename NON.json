@@ -4,41 +4,25 @@
 
 
 {
-         "name": "VIP-Zcom-TRUE-DTAC",
+         "name": "VIP-NON-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/NON%20VPN.ovpn"
       }
-,
-{
-         "name": "VIP-AV1-TRUE-DTAC",
-         "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/non%20(12).ovpn"
-      }
- ,
-{
-         "name": "VIP-AV2-TRUE-DTAC",
-         "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/TCP.ovpn"
-      }
-,
-{
-         "name": "VIP-AV3-TRUE-DTAC",
-         "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/NON_AVTH.ovpn"
-      }
+
       
    ],
 "message":"
 ⚡NON VPN⚡
 
-💫อัพเดทเซิฟเวอร์อัตโนมัติ 14/7/2023 ✨
+💫อัพเดทเซิฟเวอร์อัตโนมัติ 2/8/2023 ✨
 
 บริการเช่า internet VPN ความเร็วสูง✨
 
-เซิฟเวอร์AV 1 เดือนละ37บาท วันละ1.26💲
-
-เซิฟเวอร์AV 3 เดือนละ27บาท💲
+เพียงเดือนละ 47เท่านั้น
 
 มีแอดมินดูแล24ชั่วโมง🕦
 
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":13
+   "version":14
 }
