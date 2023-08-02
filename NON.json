@@ -7,6 +7,12 @@
          "name": "VIP-NON-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/non%20(16).ovpn"
       }
+      ,
+{
+         "name": "NON-AV-TRUE+DTAC",
+         "url": "https://raw.githubusercontent.com/NON789OP/NONVPN/main/non%20(12).ovpn"
+      }
+
 
       
    ],
@@ -24,5 +30,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":15
+   "version":16
 }
